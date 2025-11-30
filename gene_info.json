@@ -1,0 +1,1062 @@
+{
+    "OsNPF6.1": {
+        "Trait": "其他",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "D2": {
+        "Trait": "植株形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "Gn1a": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Rf3": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "SKC1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "psr1": {
+        "Trait": "其他",
+        "RefGeno": "2|2",
+        "RefStatus": "Neutral"
+    },
+    "ESA1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "SaF": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "SaM": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "CYP72A31": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Rd": {
+        "Trait": "种子形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "OsCBL10": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "OsBRI1": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "OsUGT706D1": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "NOG1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Pi35": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "OsPME1": {
+        "Trait": "其他",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "Hwi2": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "LAX1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "OsPP15": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "HESO1": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "qSH1": {
+        "Trait": "种子形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "OsPsbS1": {
+        "Trait": "其他",
+        "RefGeno": "|",
+        "RefStatus": "Neutral"
+    },
+    "OsAAP6": {
+        "Trait": "口感品质",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "sd1": {
+        "Trait": "植株形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "OsMADS51": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "SLB1": {
+        "Trait": "其他",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "SLB2": {
+        "Trait": "其他",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "DPL1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "GH3-2": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Pi64": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "NRAT1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "LRK1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "|",
+        "RefStatus": "Unfavorable"
+    },
+    "OsHMA4": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "tms5": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "GW2": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Rf2": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "HIS1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "OsCOL4": {
+        "Trait": "抽穗期",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "LTG1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "CAL1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "OsGRF4": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "DTH2": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "OsTSD2": {
+        "Trait": "其他",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "OsNR2": {
+        "Trait": "其他",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "LOC_Os02g57760": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Pib": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "qLTG3-1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "|",
+        "RefStatus": "Favorable"
+    },
+    "Ehd4": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "OsCd1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "Ef-cd": {
+        "Trait": "抽穗期",
+        "RefGeno": "|",
+        "RefStatus": "Neutral"
+    },
+    "OsSOC1": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "MIR528": {
+        "Trait": "抽穗期",
+        "RefGeno": "0|1",
+        "RefStatus": "Neutral"
+    },
+    "OsbHLH153": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "OsLG3": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "OsMADS1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "BOC1": {
+        "Trait": "其他",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "OsMYB2": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "GS3": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "GL3.2": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "bsr-d1": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "qSE3": {
+        "Trait": "其他",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "GL3.1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "LOX-3": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "OsTB1": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "SLR1": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "TAC3": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "Hd6": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "Hd16": {
+        "Trait": "抽穗期",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "OsUGT706C2": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "GL3.3": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "GNP1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Awn3-1": {
+        "Trait": "种子形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Sc": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "CTB4a": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "LOC_Os04g11970": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "Bph3": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "S28": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "An-1": {
+        "Trait": "种子形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "DGS1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "Pi21": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|1",
+        "RefStatus": "Unfavorable"
+    },
+    "BET1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "An-2": {
+        "Trait": "种子形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "Kala4": {
+        "Trait": "种子形态",
+        "RefGeno": "|",
+        "RefStatus": "Neutral"
+    },
+    "COLD1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "OsHKT1;1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "NAL1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "PiPR1": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "Xa1": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Phr1": {
+        "Trait": "其他",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "OsJAZ1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": ".|.",
+        "RefStatus": "Unfavorable"
+    },
+    "Pi63": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "xa5": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "OsWOX3B": {
+        "Trait": "种子形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "PTB1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Chalk5": {
+        "Trait": "口感品质",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "GS5": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "GW5": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "OsGSK2": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "SBI": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "OsEBS": {
+        "Trait": "产量组成相关",
+        "RefGeno": "|",
+        "RefStatus": "Unfavorable"
+    },
+    "BPH29": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "GS6": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "OsACS6": {
+        "Trait": "口感品质",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Waxy": {
+        "Trait": "口感品质",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "Hd17": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "RFT1": {
+        "Trait": "抽穗期",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Hd3a": {
+        "Trait": "抽穗期",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "DPL2": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "OsC1": {
+        "Trait": "种子形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "ORF3": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "ORF4": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "S5": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "ALK": {
+        "Trait": "口感品质",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Hd1": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "Pi9": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Pid3": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Pid2": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "TGW6": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "GW6a": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "HL6": {
+        "Trait": "种子形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "APO1": {
+        "Trait": "植株形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "OsHKT2;1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "PigmR": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "PigmS": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "LOC_Os07g04970": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Rc": {
+        "Trait": "种子形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "pms1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "OsHMA3": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "OsSNB": {
+        "Trait": "产量组成相关",
+        "RefGeno": "|",
+        "RefStatus": "Neutral"
+    },
+    "OsNRAMP5": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "Ghd7": {
+        "Trait": "抽穗期",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "S7": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "OsUGT707A2": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "OsSPL13": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "eIF4G": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "OsSAP16": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "Sdr4": {
+        "Trait": "其他",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "GW7": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "CYP78A13": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "FZP": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Ghd7.1": {
+        "Trait": "抽穗期",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Os-MOT1;1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "RF6": {
+        "Trait": "产量组成相关",
+        "RefGeno": "|",
+        "RefStatus": "Neutral"
+    },
+    "Hd18": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "DTH8": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "ARE1": {
+        "Trait": "其他",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Badh2": {
+        "Trait": "口感品质",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "TIG1": {
+        "Trait": "植株形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "RAE2": {
+        "Trait": "种子形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "IPA1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "|",
+        "RefStatus": "Neutral"
+    },
+    "GW8": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Xa13": {
+        "Trait": "生物胁迫",
+        "RefGeno": "|",
+        "RefStatus": "Favorable"
+    },
+    "OsOTUB1": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "OsCERK1": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "OsSPY": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Pi5-1": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Pi56": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "OsTPP7": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "OsTb2": {
+        "Trait": "植株形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "DEP1": {
+        "Trait": "植株形态",
+        "RefGeno": "|",
+        "RefStatus": "Neutral"
+    },
+    "qRT9": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "bZIP73": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "TAC1": {
+        "Trait": "植株形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "OsAT4c": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Pi5-2": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Sub1A": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "qUVR-10": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "OsGluA2": {
+        "Trait": "口感品质",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "OsbHLH174": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "DCA1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Ehd1": {
+        "Trait": "抽穗期",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Rf4": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Rf1a": {
+        "Trait": "产量组成相关",
+        "RefGeno": ".|.",
+        "RefStatus": "Unfavorable"
+    },
+    "Rf1b": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "OsLTPL159": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "GFR1": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "OsMADS56": {
+        "Trait": "抽穗期",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "NRT1.1B": {
+        "Trait": "其他",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "RCN1": {
+        "Trait": "抽穗期",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "GATA28": {
+        "Trait": "植株形态",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "RGA4": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "RGA5": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "LHCB5": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "STV11": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Xa21": {
+        "Trait": "生物胁迫",
+        "RefGeno": "|",
+        "RefStatus": "Favorable"
+    },
+    "Pb1": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Pi54": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Os-TBT1": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "Os-TBT2": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "TIPS-11-9": {
+        "Trait": "植株形态",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "Xa3": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "HAN1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "Pik-1": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Pik-2": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Xa10": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Xa23": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Xa4": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Pi-ta": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "Ptr": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "Nced": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Neutral"
+    },
+    "LOC_Os12g27220": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "LOC_Os12g27254": {
+        "Trait": "次生代谢相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "xa25": {
+        "Trait": "生物胁迫",
+        "RefGeno": "1|1",
+        "RefStatus": "Favorable"
+    },
+    "pms3": {
+        "Trait": "产量组成相关",
+        "RefGeno": "0|0",
+        "RefStatus": "Favorable"
+    },
+    "HSA1a": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "HSA1b": {
+        "Trait": "产量组成相关",
+        "RefGeno": "1|1",
+        "RefStatus": "Neutral"
+    },
+    "TOND1": {
+        "Trait": "其他",
+        "RefGeno": "1|1",
+        "RefStatus": "Unfavorable"
+    },
+    "Bph9": {
+        "Trait": "生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "PSTOL1": {
+        "Trait": "其他",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "SNORKEL1": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    },
+    "SNORKEL2": {
+        "Trait": "非生物胁迫",
+        "RefGeno": "0|0",
+        "RefStatus": "Unfavorable"
+    }
+}
